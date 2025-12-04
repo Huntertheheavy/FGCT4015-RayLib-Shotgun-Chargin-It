@@ -80,7 +80,7 @@ The implementation of the game was structured in three concise phases on develop
 
 This phase was concerned most implementing features of the game without concern of the visuals. This began with taking a RayLib game sample from Raylib's files. The sample used as a template was `core_2d_camera_platformer.c `, as it has a player controller, terrain, and an adjustable camera already implemented, with a zoom system on top. For the game being made, a camera zoom system is not necessary, but it is not an unwelcome addition to the project, so it was kept.
 
-![Alt text](./mdImages/core_2d_camera_platformer.c.png "core_2d_camera_platformer.c.png when compiled")
+![Alt text](https://github.com/Huntertheheavy/FGCT4015-RayLib-Shotgun-Chargin-It/blob/main/mdImages/core_2d_camera_platformer.c.png?raw=true "core_2d_camera_platformer.c.png when compiled")
 
 [ Figure 1. `core_2d_camera_platformer.c.png` when compiled.]
 
@@ -389,7 +389,7 @@ Audio was the first feature implemented at this stage. This is because audio is 
 
 The art was mostly ripped straight from the sister project; *Shotgun : Deal With It*, but at the time of making them, it was a process that involved a heavy amount of drawing and iterating. The only exception was the slime block texture, which is for the `bouncy` terrain, and a smoke texture. Those were made specifically for this game
 
-![Alt text](.https://github.com/Huntertheheavy/FGCT4015-RayLib-Shotgun-Chargin-It/blob/main/mdImages/art.png "Art Examples")
+![Alt text](https://github.com/Huntertheheavy/FGCT4015-RayLib-Shotgun-Chargin-It/blob/main/mdImages/art.png?raw=true "Art Examples")
 
 [ Figure 8. The tileset and the main player sprite as an example of the sprites in the project.]
 
@@ -468,7 +468,7 @@ There was a bug in the tilemapping where the texture selected from the texture a
 
 Once the actual tile mapping code was implemented, the level was then designed. The goal for the level was to have a very tall level, like *Getting Over It with Bennett Foddy*, with jumps intentionally designed to make you lose a lot of progress if failed, and to utilize each terrain type outside of just the beginning of the level. On the topic of the beginning of the level, the level design should get progressively harder. From a soft-tutorial that doesn't punish the player, so jumps that when missed punish the player even heavily. There is a 'troll' section midway through the level to intentionally trick the player. This is because it is to fit the theming of a 'rage game' like *Getting Over It*. However, at the end of the 'troll' section, there are ammo boxes as to forgive the player from wasting their time.
 
-![Alt text](./mdImages/map.png "Game Level")
+![Alt text](https://github.com/Huntertheheavy/FGCT4015-RayLib-Shotgun-Chargin-It/blob/main/mdImages/map.png?raw=true "Game Level")
 
 [ Figure 10. Level created In Tiled.]
 
@@ -710,13 +710,13 @@ The first play tester play tested the game right after tilemapping, but then was
 
 The following are the statistics generated from the survey results:
 
-![Alt text](./mdImages/gameplay.png "gameplay chart")
+![Alt text](https://github.com/Huntertheheavy/FGCT4015-RayLib-Shotgun-Chargin-It/blob/main/mdImages/gameplay.png?raw=true "gameplay chart")
 [ Figure 18. Gameplay Ratings.] 
 
-![Alt text](./mdImages/physics.png "physics chart")
+![Alt text](https://github.com/Huntertheheavy/FGCT4015-RayLib-Shotgun-Chargin-It/blob/main/mdImages/physics.png?raw=true "physics chart")
 [ Figure 19. Physics Ratings.]
 
-![Alt text](./mdImages/design.png "level design chart")
+![Alt text](https://github.com/Huntertheheavy/FGCT4015-RayLib-Shotgun-Chargin-It/blob/main/mdImages/design.png?raw=true "level design chart")
 [ Figure 20. Level Design Ratings.]
 
 What can be derived from the statistics is that although the game is generally liked in terms of all aspects, but they all do need some attention to tweak and perfect, as all of them have the average result be at 4/5 as opposed to 5/5, and 2/3 of the sections have respondents picking 3/5. This is indicative of a generally positive reception for the game. This means applying some of the feedback would not be too much of an issue or concern as the game is already generally liked. That does not mean ignoring issues, it simply means weighing time as an opportunity cost to each fix.
