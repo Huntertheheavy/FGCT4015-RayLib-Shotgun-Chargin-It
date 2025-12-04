@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Tileset.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Tileset_New.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 632.5,
+                "y": 1458
+            }
+        },
+        "map.tmx#Tileset": {
+            "scaleInDock": 1
+        },
+        "map.tmx#Tileset_New": {
+            "scaleInDock": 0.75
+        }
+    },
+    "last.exportedFilePath": "C:/Users/SACHA/Downloads/github/github/shotgun-charginb-it",
+    "last.imagePath": "C:/Users/SACHA/Downloads/github/github/shotgun-charginb-it",
+    "map.height": 100,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "map.width": 20,
+    "openFiles": [
+        "map.tmx",
+        "Tileset_New.tsx"
+    ],
+    "project": "shotgunmap.tiled-project",
+    "recentFiles": [
+        "Tileset_New.tsx",
+        "map.tmx",
+        "Tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
