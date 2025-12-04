@@ -389,7 +389,7 @@ Audio was the first feature implemented at this stage. This is because audio is 
 
 The art was mostly ripped straight from the sister project; *Shotgun : Deal With It*, but at the time of making them, it was a process that involved a heavy amount of drawing and iterating. The only exception was the slime block texture, which is for the `bouncy` terrain, and a smoke texture. Those were made specifically for this game
 
-![Alt text](./mdImages/art.png "Art Examples")
+![Alt text](.https://github.com/Huntertheheavy/FGCT4015-RayLib-Shotgun-Chargin-It/blob/main/mdImages/art.png "Art Examples")
 
 [ Figure 8. The tileset and the main player sprite as an example of the sprites in the project.]
 
